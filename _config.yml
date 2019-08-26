@@ -21,13 +21,13 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false #true
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/VSaurabh93/
-    github:  https://github.com/VSaurabh93/
-    linkedIn: https://www.linkedin.com/in/saurabhverma93/
+    twitter: VSaurabh93/
+    github:  VSaurabh93/
+    linkedIn: saurabhverma93/
     rss: rss
  
 
